@@ -74,7 +74,7 @@ Output:
 * Annotated wireframes
 * User flow
 * Metrics framework
-* AI-assisted prototype.
+* AI-assisted prototype ( https://chat-upload-flow.lovable.app/ )
 
 ---
 
